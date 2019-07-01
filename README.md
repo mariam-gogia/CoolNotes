@@ -50,6 +50,7 @@ Provide easy, simple and enjoyable note taking platform.
 
 | Title | User Story | Additional Details | Acceptance Criteria | Story Points |
 | ----- | ---------- | ------------------ | ------------------- | ------------ |
+| Student | As a student, I want to take notes without needing to sign in, so that I can record my thoughts without unnecessary action. | No account wanted | There is an application that can be run on a computer running any OS, On application startup, there is an empty note item on the board.| 5 |
 | Student | As a non-tech savvy student, I want to use a simple note-taking platform, so that I don’t get confused. | Sticky notes wanted | When toolbar has stickers that can be successfully deployed on the note sheet | 5 |
 | Conference attendee | As a conference attendee, I want to be able to take notes with different note-taking essentials, so that I can successfully capture the main points of the event. | Needs to efficiently capture the main points of the event | Toolbar with good variety of bullet points, numbering and other listing techniques | 5 |
 | Researcher | As a researcher, I need many different note-taking tools, so that I can successfully annotate research material. | Annotation tools needed | Toolbar offering highlights, arrows, comment text box | 8 |
