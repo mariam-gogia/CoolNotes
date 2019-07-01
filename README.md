@@ -54,9 +54,10 @@ Provide easy, simple and enjoyable note taking platform.
 | Conference attendee | As a conference attendee, I want to be able to take notes with different note-taking essentials, so that I can successfully capture the main points of the event. | Needs to efficiently capture the main points of the event | Toolbar with good variety of bullet points, numbering and other listing techniques | 5 |
 | Researcher | As a researcher, I need many different note-taking tools, so that I can successfully annotate research material. | Annotation tools needed | Toolbar offering highlights, arrows, comment text box | 8 |
 | Student | As a student, I need well-equipped toolbar, so that I can replace taking notes by hand. | An aesthete | Tools offered in the toolbar are designed to look very similar to real life equivalents. Offering fonts that look like real handwriting | 8 |
-| Non-English speaking student | As a non-native English speaking student, I need a spell check and grammar check feature, so that I can write notes that are free of such mistakes. | Spelling issues | When web-app suggests to correct misspelled words | 15 |
+| Non-English speaking student | As a non-native English speaking student, I need a spell check, so that I can write notes that are free of such mistakes. | Spelling issues | When web-app suggests to correct misspelled words | 10 |
 | Senior user | As a senior user, I want to be able to find “help” section, so that I understand how to use each feature/tool. | “Help” needed | Section on the site that explains how to use items on the toolbar as well as how to export/import | 15 |
 | Regular User | As a site user, I want to be able to easily delete/undo work, so that I know I won’t spend a lot of time undoing mistakes. | Needs to contact support team | FAQ section | 10 |
+| Non-English speaking user | As a non-English speaking user, I want a software to correct common grammar/punctuation mistakes, so that I can write notes that are free of grammatical mistakes. | Grammar assist feature needed  | When software successfuly makes correction suggestions on common grammar mistakes  | 15 |
 
 ### Backlog Ordering
 Our backlog is ordered such that a working demo may be produced as quickly as possible. All value generated for the customer stems from the base capabilities of our platform. As such, all dependent features build on this.
