@@ -1,7 +1,7 @@
 # Cool Notes
 
 ## Scrum Team
-- Scrum Master / Developer: Jonathan Dredge
+- Scrum Master / Developer: Jonnie Dredge
 - Developer: Mariam Gogia
 - Developer: Aromal Prasannan Lilly
 - Product Owner / Developer: Andrew Wang
