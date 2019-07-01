@@ -58,5 +58,9 @@ Provide easy, simple and enjoyable note taking platform.
 | Senior user | As a senior user, I want to be able to find “help” section, so that I understand how to use each feature/tool. | “Help” needed | Section on the site that explains how to use items on the toolbar as well as how to export/import | 15 |
 | Regular User | As a site user, I want to be able to easily delete/undo work, so that I know I won’t spend a lot of time undoing mistakes. | Needs to contact support team | FAQ section | 10 |
 
+### Backlog Ordering
+Our backlog is ordered such that a working demo may be produced as quickly as possible. All value generated for the customer stems from the base capabilities of our platform. As such, all dependent features build on this.
+
 ### Whole Team Relative Size Estimation
 In order to help accurately gauge the effort required to perform backlog items, our team participated in whole team relative size estimating. This technique allows us to plan and adapt by comparing the complexity of our story items by taking advantage of our collective wisdom. Due to the developers being the closest to the problem, they are the ones most suited to do this estimation. As such, only the development team participated in the activity.
+
