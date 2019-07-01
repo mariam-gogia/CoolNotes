@@ -48,13 +48,13 @@ Provide easy, simple and enjoyable note taking platform.
 
 ## Initial Product Backlog
 
-| Title | Opening Sentence | User Story | Acceptance Criteria | Story Points |
-| ----- | ---------------- | ----------------- | ------------------- | ------------ |
-| Student | Sticky notes wanted | As a non-tech savvy student, I want to use a simple note-taking platform, so that I don’t get confused.  | When toolbar has stickers that can be successfully deployed on the note sheet | 5 |
-| Conference attendee | Needs to efficiently capture the main points of the event | As a conference attendee, I want to be able to take notes with different note-taking essentials, so that I can successfully capture the main points of the event. | Toolbar with good variety of bullet points, numbering and other listing techniques | 5 |
-| Researcher | Annotation tools needed | As a researcher, I need many different note-taking tools, so that I can successfully annotate research material. | Toolbar offering highlights, arrows, comment text box | 8 |
-| Student | An aesthete | As a student, I need well-equipped toolbar, so that I can replace taking notes by hand.  | Tools offered in the toolbar are designed to look very similar to real life equivalents. Offering fonts that look like real handwriting | 8 |
-| Non-English speaking student | Spelling issues | As a non-native English speaking student, I need a spell check and grammar check feature, so that I can write notes that are free of such mistakes. | When web-app suggests to correct misspelled words | 15 |
-| Senior user | “Help” needed | As a senior user, I want to be able to find “help” section, so that I understand how to use each feature/tool. | Section on the site that explains how to use items on the toolbar as well as how to export/import | 15 |
-| Regular User | Needs to contact team | As a site user, I want to be able to easily delete/undo work, so that I know I won’t spend a lot of time undoing mistakes. | FAQ section | 10 |
+| Title | User Story | Additional Details | Acceptance Criteria | Story Points |
+| ----- | ---------- | ------------------ | ------------------- | ------------ |
+| Student | As a non-tech savvy student, I want to use a simple note-taking platform, so that I don’t get confused. | Sticky notes wanted | When toolbar has stickers that can be successfully deployed on the note sheet | 5 |
+| Conference attendee | As a conference attendee, I want to be able to take notes with different note-taking essentials, so that I can successfully capture the main points of the event. | Needs to efficiently capture the main points of the event | Toolbar with good variety of bullet points, numbering and other listing techniques | 5 |
+| Researcher | As a researcher, I need many different note-taking tools, so that I can successfully annotate research material. | Annotation tools needed | Toolbar offering highlights, arrows, comment text box | 8 |
+| Student | As a student, I need well-equipped toolbar, so that I can replace taking notes by hand. | An aesthete | Tools offered in the toolbar are designed to look very similar to real life equivalents. Offering fonts that look like real handwriting | 8 |
+| Non-English speaking student | As a non-native English speaking student, I need a spell check and grammar check feature, so that I can write notes that are free of such mistakes. | Spelling issues | When web-app suggests to correct misspelled words | 15 |
+| Senior user | As a senior user, I want to be able to find “help” section, so that I understand how to use each feature/tool. | “Help” needed | Section on the site that explains how to use items on the toolbar as well as how to export/import | 15 |
+| Regular User | As a site user, I want to be able to easily delete/undo work, so that I know I won’t spend a lot of time undoing mistakes. | Needs to contact support team | FAQ section | 10 |
 
